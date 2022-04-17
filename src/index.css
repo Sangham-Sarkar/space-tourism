@@ -5,6 +5,7 @@
 h1 {
   font-family: "Bellefair", serif;
   font-size: 150px;
+  font-weight: 400;
 }
 
 h2 {
@@ -23,7 +24,19 @@ h4 {
 }
 
 h5 {
+  color: #d0d6f9;
   font-family: "Bellefair", serif;
   font-size: 28px;
-  word-spacing: 4.75;
+  font-weight: 400;
+  word-spacing: 4.75px;
+  line-height: 34px;
+}
+
+P {
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #d0d6f9;
 }
