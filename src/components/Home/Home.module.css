@@ -1,0 +1,34 @@
+.Home {
+  width: 100%;
+  height: 100vh;
+  background: url(../../assets/home/background-home-desktop.jpg);
+}
+
+.Content {
+  padding-top: 10rem;
+  color: white;
+  display: flex;
+}
+
+.Info {
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+  padding-left: 5rem;
+}
+
+.Explore {
+  width: 15rem;
+  height: 15rem;
+  margin-left: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0b0d17;
+  border-radius: 50%;
+  background-color: white;
+  letter-spacing: 2px;
+  font-size: 32px;
+  line-height: 37px;
+}
